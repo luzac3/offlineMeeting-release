@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = offlineMeeting
 build_property.RootNamespace = offlineMeeting
-build_property.ProjectDir = C:\web_private\offlineMeeting\offlineMeeting\
+build_property.ProjectDir = C:\web_private\offlineMeeting-release\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\web_private\offlineMeeting\offlineMeeting
+build_property.MSBuildProjectDirectory = C:\web_private\offlineMeeting-release
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/EventList/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/EventList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRMaXN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Event/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Event/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Event/Privacy.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Event/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Event/_VideoController.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Event/_VideoController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcX1ZpZGVvQ29udHJvbGxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_EndGameChangeDisplay.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_EndGameChangeDisplay.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX0VuZEdhbWVDaGFuZ2VEaXNwbGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_EndGameChangeUserSelect.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_EndGameChangeUserSelect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX0VuZEdhbWVDaGFuZ2VVc2VyU2VsZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_GameData.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_GameData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX0dhbWVEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_Result.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX1Jlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_ShowPoint.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_ShowPoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX1Nob3dQb2ludC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_VideoRegister.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_VideoRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX1ZpZGVvUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/GameData/_VideoTest.cshtml]
+[C:/web_private/offlineMeeting-release/Views/GameData/_VideoTest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZURhdGFcX1ZpZGVvVGVzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Home/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Home/Privacy.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Invitation/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Invitation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52aXRhdGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/ManagementStreaming/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/ManagementStreaming/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudFN0cmVhbWluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/ManagementStreaming/_VideoController.cshtml]
+[C:/web_private/offlineMeeting-release/Views/ManagementStreaming/_VideoController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudFN0cmVhbWluZ1xfVmlkZW9Db250cm9sbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Shared/Error.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Shared/_userSelect.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Shared/_userSelect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyU2VsZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Streaming/Index.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Streaming/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyZWFtaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Streaming/_VideoController.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Streaming/_VideoController.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyZWFtaW5nXF9WaWRlb0NvbnRyb2xsZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/_ViewImports.cshtml]
+[C:/web_private/offlineMeeting-release/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/_ViewStart.cshtml]
+[C:/web_private/offlineMeeting-release/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/web_private/offlineMeeting/offlineMeeting/Views/Shared/_Layout.cshtml]
+[C:/web_private/offlineMeeting-release/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-60qk3seclf

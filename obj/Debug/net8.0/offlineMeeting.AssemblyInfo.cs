@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("offlineMeeting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ee43fcd7ebe511d91b6b29f4a01ef65949a52e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d423dbfaa26b6a29ef9cc4f600f94a60f1ce4ca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("offlineMeeting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("offlineMeeting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7269,11 +7269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\web_private\\offlineMeeting\\offlineMeeting\\offlineMeeting.csproj",
+      "projectUniqueName": "C:\\web_private\\offlineMeeting-release\\offlineMeeting.csproj",
       "projectName": "offlineMeeting",
-      "projectPath": "C:\\web_private\\offlineMeeting\\offlineMeeting\\offlineMeeting.csproj",
+      "projectPath": "C:\\web_private\\offlineMeeting-release\\offlineMeeting.csproj",
       "packagesPath": "C:\\Users\\VehicleVision\\.nuget\\packages\\",
-      "outputPath": "C:\\web_private\\offlineMeeting\\offlineMeeting\\obj\\",
+      "outputPath": "C:\\web_private\\offlineMeeting-release\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
