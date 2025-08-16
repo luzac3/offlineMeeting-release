@@ -1,0 +1,1121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\offlineMeeting.bundle.scp.css",
+      "PackagePath": "staticwebassets\\offlineMeeting.5keeoyfn9g.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\EventList\\Index.css",
+      "PackagePath": "staticwebassets\\css\\EventList\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Event\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Event\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\GameData\\Index.css",
+      "PackagePath": "staticwebassets\\css\\GameData\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Home\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\ManagementStreaming\\Index.css",
+      "PackagePath": "staticwebassets\\css\\ManagementStreaming\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Streaming\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Streaming\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\modal.css",
+      "PackagePath": "staticwebassets\\css\\modal.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\index.css",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\image\\pict1.png",
+      "PackagePath": "staticwebassets\\image\\pict1.png"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\Event.js",
+      "PackagePath": "staticwebassets\\js\\dist\\Event.js"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\Event.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\Event.js.map"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\EventList.js",
+      "PackagePath": "staticwebassets\\js\\dist\\EventList.js"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\EventList.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\EventList.js.map"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\ManagementStreaming.js",
+      "PackagePath": "staticwebassets\\js\\dist\\ManagementStreaming.js"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\ManagementStreaming.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\ManagementStreaming.js.map"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\Streaming.js",
+      "PackagePath": "staticwebassets\\js\\dist\\Streaming.js"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\dist\\Streaming.js.map",
+      "PackagePath": "staticwebassets\\js\\dist\\Streaming.js.map"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\DBConnect.json",
+      "PackagePath": "staticwebassets\\json\\DBConnect.json"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\Direction.json",
+      "PackagePath": "staticwebassets\\json\\Direction.json"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\default.css",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\default.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\developer.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\developer.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\faq.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\faq.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\fate.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\fate.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-all.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-all.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-bitstream-filters.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-bitstream-filters.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-codecs.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-codecs.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-devices.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-devices.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-filters.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-filters.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-formats.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-formats.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-protocols.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-protocols.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-resampler.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-resampler.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-scaler.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-scaler.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg-utils.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg-utils.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffmpeg.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffmpeg.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffplay-all.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffplay-all.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffplay.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffplay.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffprobe-all.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffprobe-all.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\ffprobe.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\ffprobe.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\general.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\general.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\git-howto.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\git-howto.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libavcodec.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libavcodec.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libavdevice.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libavdevice.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libavfilter.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libavfilter.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libavformat.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libavformat.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libavutil.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libavutil.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libswresample.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libswresample.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\libswscale.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\libswscale.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\mailing-list-faq.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\mailing-list-faq.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\nut.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\nut.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\platform.html",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\platform.html"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\doc\\style.min.css",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\doc\\style.min.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\ac3_parser.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\ac3_parser.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\adts_parser.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\adts_parser.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\avcodec.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\avcodec.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\avdct.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\avdct.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\avfft.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\avfft.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\bsf.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\bsf.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\codec.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\codec.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\codec_desc.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\codec_desc.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\codec_id.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\codec_id.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\codec_par.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\codec_par.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\d3d11va.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\d3d11va.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\defs.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\defs.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\dirac.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\dirac.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\dv_profile.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\dv_profile.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\dxva2.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\dxva2.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\jni.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\jni.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\mediacodec.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\mediacodec.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\packet.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\packet.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\qsv.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\qsv.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\vdpau.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\vdpau.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\videotoolbox.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\videotoolbox.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\vorbis_parser.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\vorbis_parser.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavcodec\\xvmc.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavcodec\\xvmc.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavdevice\\avdevice.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavdevice\\avdevice.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavdevice\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavdevice\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavdevice\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavdevice\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavfilter\\avfilter.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavfilter\\avfilter.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavfilter\\buffersink.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavfilter\\buffersink.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavfilter\\buffersrc.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavfilter\\buffersrc.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavfilter\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavfilter\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavfilter\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavfilter\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavformat\\avformat.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavformat\\avformat.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavformat\\avio.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavformat\\avio.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavformat\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavformat\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavformat\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavformat\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\adler32.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\adler32.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\aes.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\aes.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\aes_ctr.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\aes_ctr.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\attributes.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\attributes.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\audio_fifo.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\audio_fifo.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\avassert.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\avassert.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\avconfig.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\avconfig.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\avstring.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\avstring.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\avutil.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\avutil.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\base64.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\base64.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\blowfish.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\blowfish.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\bprint.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\bprint.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\bswap.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\bswap.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\buffer.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\buffer.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\camellia.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\camellia.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\cast5.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\cast5.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\channel_layout.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\channel_layout.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\common.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\common.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\cpu.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\cpu.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\crc.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\crc.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\csp.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\csp.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\des.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\des.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\detection_bbox.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\detection_bbox.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\dict.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\dict.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\display.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\display.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\dovi_meta.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\dovi_meta.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\downmix_info.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\downmix_info.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\encryption_info.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\encryption_info.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\error.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\error.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\eval.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\eval.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\ffversion.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\ffversion.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\fifo.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\fifo.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\file.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\file.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\film_grain_params.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\film_grain_params.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\frame.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\frame.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hash.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hash.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hdr_dynamic_metadata.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hdr_dynamic_metadata.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hdr_dynamic_vivid_metadata.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hdr_dynamic_vivid_metadata.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hmac.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hmac.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_cuda.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_cuda.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_d3d11va.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_d3d11va.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_drm.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_drm.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_dxva2.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_dxva2.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_mediacodec.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_mediacodec.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_opencl.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_opencl.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_qsv.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_qsv.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vaapi.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vaapi.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vdpau.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vdpau.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_videotoolbox.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_videotoolbox.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vulkan.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\hwcontext_vulkan.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\imgutils.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\imgutils.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\intfloat.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\intfloat.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\intreadwrite.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\intreadwrite.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\lfg.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\lfg.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\log.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\log.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\lzo.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\lzo.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\macros.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\macros.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\mastering_display_metadata.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\mastering_display_metadata.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\mathematics.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\mathematics.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\md5.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\md5.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\mem.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\mem.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\motion_vector.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\motion_vector.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\murmur3.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\murmur3.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\opt.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\opt.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\parseutils.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\parseutils.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\pixdesc.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\pixdesc.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\pixelutils.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\pixelutils.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\pixfmt.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\pixfmt.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\random_seed.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\random_seed.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\rational.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\rational.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\rc4.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\rc4.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\replaygain.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\replaygain.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\ripemd.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\ripemd.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\samplefmt.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\samplefmt.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\sha.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\sha.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\sha512.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\sha512.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\spherical.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\spherical.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\stereo3d.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\stereo3d.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\tea.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\tea.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\threadmessage.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\threadmessage.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\time.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\time.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\timecode.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\timecode.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\timestamp.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\timestamp.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\tree.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\tree.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\twofish.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\twofish.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\tx.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\tx.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\uuid.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\uuid.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\video_enc_params.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\video_enc_params.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libavutil\\xtea.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libavutil\\xtea.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libpostproc\\postprocess.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libpostproc\\postprocess.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libpostproc\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libpostproc\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libpostproc\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libpostproc\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswresample\\swresample.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswresample\\swresample.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswresample\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswresample\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswresample\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswresample\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswscale\\swscale.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswscale\\swscale.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswscale\\version.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswscale\\version.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\include\\libswscale\\version_major.h",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\include\\libswscale\\version_major.h"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avcodec-59.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avcodec-59.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avcodec.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avcodec.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avdevice-59.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avdevice-59.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avdevice.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avdevice.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avfilter-8.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avfilter-8.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avfilter.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avfilter.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avformat-59.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avformat-59.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avformat.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avformat.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avutil-57.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avutil-57.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\avutil.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\avutil.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libavcodec.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libavcodec.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libavdevice.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libavdevice.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libavfilter.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libavfilter.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libavformat.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libavformat.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libavutil.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libavutil.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libpostproc.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libpostproc.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libswresample.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libswresample.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\libswscale.dll.a",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\libswscale.dll.a"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libavcodec.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libavcodec.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libavdevice.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libavdevice.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libavfilter.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libavfilter.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libavformat.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libavformat.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libavutil.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libavutil.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libpostproc.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libpostproc.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libswresample.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libswresample.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\pkgconfig\\libswscale.pc",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\pkgconfig\\libswscale.pc"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\postproc-56.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\postproc-56.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\postproc.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\postproc.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\swresample-4.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\swresample-4.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\swresample.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\swresample.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\swscale-6.def",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\swscale-6.def"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\plugins\\ffmpeg\\lib\\swscale.lib",
+      "PackagePath": "staticwebassets\\plugins\\ffmpeg\\lib\\swscale.lib"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\ControlModal.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\ControlModal.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\ControlObjectHandler.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\ControlObjectHandler.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\Index.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\Index.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\ManagementStreaming.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\ManagementStreaming.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\RegisterNewEvent.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\RegisterNewEvent.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\StartEvent.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\StartEvent.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\EventList\\Streaming.ts",
+      "PackagePath": "staticwebassets\\ts\\EventList\\Streaming.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\CanvasVideo.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\CanvasVideo.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\EventControlModal.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\EventControlModal.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\GetCamera.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\GetCamera.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\GetCameraInformation.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\GetCameraInformation.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\Index.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\Index.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\RegisterVideo.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\RegisterVideo.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\StartGame.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\StartGame.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\StartVideoMedia.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\StartVideoMedia.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\VideoControll.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\VideoControll.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Event\\VideoTestControll.ts",
+      "PackagePath": "staticwebassets\\ts\\Event\\VideoTestControll.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\EndHand.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\EndHand.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\RecordMedia.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\RecordMedia.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\RecordVideo.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\RecordVideo.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\RegisterEndGame.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\RegisterEndGame.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\RegisterEndHand.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\RegisterEndHand.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\SelectEndHand.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\SelectEndHand.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\SetAvoidSelectDuplication.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\SetAvoidSelectDuplication.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\GameData\\ShowPoint.ts",
+      "PackagePath": "staticwebassets\\ts\\GameData\\ShowPoint.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\Index.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\Index.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\ManagementStreamingControlModal.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\ManagementStreamingControlModal.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\ManagementVideo.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\ManagementVideo.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\Recording.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\Recording.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\SetCanvas.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\SetCanvas.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\SetMikeDevice.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\SetMikeDevice.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\ManagementStreaming\\VideoSwitcher.ts",
+      "PackagePath": "staticwebassets\\ts\\ManagementStreaming\\VideoSwitcher.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Streaming\\Index.ts",
+      "PackagePath": "staticwebassets\\ts\\Streaming\\Index.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Streaming\\StartStreaming.ts",
+      "PackagePath": "staticwebassets\\ts\\Streaming\\StartStreaming.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\Streaming\\StreamingControlModal.ts",
+      "PackagePath": "staticwebassets\\ts\\Streaming\\StreamingControlModal.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\ControlModal.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\ControlModal.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\ControlObject.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\ControlObject.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\FetchApi.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\FetchApi.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\GetFormData.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\GetFormData.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\GetNewResolutions.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\GetNewResolutions.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\Resolutions.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\Resolutions.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\SetEventListner.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\SetEventListner.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\SetOutSameClassSelect.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\SetOutSameClassSelect.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\SignalR.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\SignalR.ts"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\ts\\share\\ValidateForm.ts",
+      "PackagePath": "staticwebassets\\ts\\share\\ValidateForm.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.offlineMeeting.props",
+      "PackagePath": "build\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.offlineMeeting.props",
+      "PackagePath": "buildMultiTargeting\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.offlineMeeting.props",
+      "PackagePath": "buildTransitive\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.offlineMeeting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.offlineMeeting.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

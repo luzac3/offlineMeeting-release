@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "oGLaWa1pL3RR5FHmkn8XsRnItXg7xCwzgQoHcd/cZ7g=",
+  "Source": "offlineMeeting",
+  "BasePath": "_content/offlineMeeting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "offlineMeeting\\wwwroot",
+      "Source": "offlineMeeting",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Home\\Index.css",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/Home/Index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Home\\Index.css"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\modal.css",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/modal#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8npwjpj7xe",
+      "Integrity": "LM/s0MaR/H/xMhRCJJ0goDJm8twHEQX8BJRgg5SUPJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\modal.css"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\index.css",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/plugin/material-symbols/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gmyoxiee3c",
+      "Integrity": "SG78DFtMDwh/thFwb02785dXrwrg5UjzanAplpyTESk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\plugin\\material-symbols\\index.css"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/plugin/material-symbols/material-symbols-outlined#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ht9tnkk3zv",
+      "Integrity": "9R2O2EQ6twc4AoP48Vvp8SBzHmVUDLVJg+61mBMWJZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/plugin/material-symbols/material-symbols-rounded#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "05cx6ymxzx",
+      "Integrity": "TBaMv4sbgZzbdIzUvQt2vSYvsC70k4ksO8NYMvXMmqw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/plugin/material-symbols/material-symbols-sharp#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n9vwc1m24k",
+      "Integrity": "tYk++8gc97+XFK9JE6KnxxTpPWpJMXYxXmVGF+QJWJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Pos\\Index.css",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/Pos/Index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2oqlcf2jky",
+      "Integrity": "vn3UTuGVf2yW3+Gf01PzWvMknQdN8OrrJ8hSPU9KahQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Pos\\Index.css"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\site.css",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g1ln7qecbg",
+      "Integrity": "RLlh1RG2G5kcbrSfGSGIlloO3p+juzovKlzbZlvcMh4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\favicon.ico",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\image\\pict1.png",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "image/pict1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1e8djcd7ab",
+      "Integrity": "R2HyLIStwDf4jVgpieqIURUYXHobEgQpSOgTmtlRoIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\pict1.png"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\ApiKey.json",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "json/ApiKey#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "owrpjqz5ca",
+      "Integrity": "eJuXC7d5s3KAVW24JZveZ7QWbQfwo5roTfGk+u0OYvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\ApiKey.json"
+    },
+    {
+      "Identity": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\DBConnect.json",
+      "SourceId": "offlineMeeting",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\",
+      "BasePath": "_content/offlineMeeting",
+      "RelativePath": "json/DBConnect#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a60u0n20iw",
+      "Integrity": "nsc1iEr/jE+syROzs8iolFBvFm0wIzI2FoGJ3+VOWO0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\DBConnect.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/Home/Index.3r8b2a0bt1.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Home\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home/Index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/Index.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Home\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "css/modal.8npwjpj7xe.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\modal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LM/s0MaR/H/xMhRCJJ0goDJm8twHEQX8BJRgg5SUPJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8npwjpj7xe"
+        },
+        {
+          "Name": "label",
+          "Value": "css/modal.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LM/s0MaR/H/xMhRCJJ0goDJm8twHEQX8BJRgg5SUPJg="
+        }
+      ]
+    },
+    {
+      "Route": "css/modal.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\modal.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LM/s0MaR/H/xMhRCJJ0goDJm8twHEQX8BJRgg5SUPJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LM/s0MaR/H/xMhRCJJ0goDJm8twHEQX8BJRgg5SUPJg="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/index.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SG78DFtMDwh/thFwb02785dXrwrg5UjzanAplpyTESk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SG78DFtMDwh/thFwb02785dXrwrg5UjzanAplpyTESk="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/index.gmyoxiee3c.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SG78DFtMDwh/thFwb02785dXrwrg5UjzanAplpyTESk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gmyoxiee3c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/plugin/material-symbols/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SG78DFtMDwh/thFwb02785dXrwrg5UjzanAplpyTESk="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-outlined.ht9tnkk3zv.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9R2O2EQ6twc4AoP48Vvp8SBzHmVUDLVJg+61mBMWJZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ht9tnkk3zv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/plugin/material-symbols/material-symbols-outlined.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9R2O2EQ6twc4AoP48Vvp8SBzHmVUDLVJg+61mBMWJZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-outlined.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9R2O2EQ6twc4AoP48Vvp8SBzHmVUDLVJg+61mBMWJZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9R2O2EQ6twc4AoP48Vvp8SBzHmVUDLVJg+61mBMWJZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-rounded.05cx6ymxzx.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3872344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TBaMv4sbgZzbdIzUvQt2vSYvsC70k4ksO8NYMvXMmqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "05cx6ymxzx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/plugin/material-symbols/material-symbols-rounded.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TBaMv4sbgZzbdIzUvQt2vSYvsC70k4ksO8NYMvXMmqw="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-rounded.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3872344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TBaMv4sbgZzbdIzUvQt2vSYvsC70k4ksO8NYMvXMmqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TBaMv4sbgZzbdIzUvQt2vSYvsC70k4ksO8NYMvXMmqw="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-sharp.n9vwc1m24k.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2502540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYk++8gc97+XFK9JE6KnxxTpPWpJMXYxXmVGF+QJWJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9vwc1m24k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/plugin/material-symbols/material-symbols-sharp.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYk++8gc97+XFK9JE6KnxxTpPWpJMXYxXmVGF+QJWJQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/plugin/material-symbols/material-symbols-sharp.woff2",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2502540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYk++8gc97+XFK9JE6KnxxTpPWpJMXYxXmVGF+QJWJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYk++8gc97+XFK9JE6KnxxTpPWpJMXYxXmVGF+QJWJQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pos/Index.2oqlcf2jky.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Pos\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vn3UTuGVf2yW3+Gf01PzWvMknQdN8OrrJ8hSPU9KahQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2oqlcf2jky"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Pos/Index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vn3UTuGVf2yW3+Gf01PzWvMknQdN8OrrJ8hSPU9KahQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Pos/Index.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Pos\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vn3UTuGVf2yW3+Gf01PzWvMknQdN8OrrJ8hSPU9KahQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vn3UTuGVf2yW3+Gf01PzWvMknQdN8OrrJ8hSPU9KahQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RLlh1RG2G5kcbrSfGSGIlloO3p+juzovKlzbZlvcMh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RLlh1RG2G5kcbrSfGSGIlloO3p+juzovKlzbZlvcMh4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g1ln7qecbg.css",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RLlh1RG2G5kcbrSfGSGIlloO3p+juzovKlzbZlvcMh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ln7qecbg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RLlh1RG2G5kcbrSfGSGIlloO3p+juzovKlzbZlvcMh4="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "image/pict1.1e8djcd7ab.png",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\image\\pict1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2HyLIStwDf4jVgpieqIURUYXHobEgQpSOgTmtlRoIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1e8djcd7ab"
+        },
+        {
+          "Name": "label",
+          "Value": "image/pict1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2HyLIStwDf4jVgpieqIURUYXHobEgQpSOgTmtlRoIM="
+        }
+      ]
+    },
+    {
+      "Route": "image/pict1.png",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\image\\pict1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2HyLIStwDf4jVgpieqIURUYXHobEgQpSOgTmtlRoIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Jul 2025 10:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2HyLIStwDf4jVgpieqIURUYXHobEgQpSOgTmtlRoIM="
+        }
+      ]
+    },
+    {
+      "Route": "json/ApiKey.json",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\ApiKey.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eJuXC7d5s3KAVW24JZveZ7QWbQfwo5roTfGk+u0OYvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eJuXC7d5s3KAVW24JZveZ7QWbQfwo5roTfGk+u0OYvE="
+        }
+      ]
+    },
+    {
+      "Route": "json/ApiKey.owrpjqz5ca.json",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\ApiKey.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eJuXC7d5s3KAVW24JZveZ7QWbQfwo5roTfGk+u0OYvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owrpjqz5ca"
+        },
+        {
+          "Name": "label",
+          "Value": "json/ApiKey.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eJuXC7d5s3KAVW24JZveZ7QWbQfwo5roTfGk+u0OYvE="
+        }
+      ]
+    },
+    {
+      "Route": "json/DBConnect.a60u0n20iw.json",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\DBConnect.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nsc1iEr/jE+syROzs8iolFBvFm0wIzI2FoGJ3+VOWO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a60u0n20iw"
+        },
+        {
+          "Name": "label",
+          "Value": "json/DBConnect.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nsc1iEr/jE+syROzs8iolFBvFm0wIzI2FoGJ3+VOWO0="
+        }
+      ]
+    },
+    {
+      "Route": "json/DBConnect.json",
+      "AssetFile": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\DBConnect.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nsc1iEr/jE+syROzs8iolFBvFm0wIzI2FoGJ3+VOWO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 11:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nsc1iEr/jE+syROzs8iolFBvFm0wIzI2FoGJ3+VOWO0="
+        }
+      ]
+    }
+  ]
+}

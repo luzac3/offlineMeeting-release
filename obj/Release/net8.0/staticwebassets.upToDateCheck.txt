@@ -1,0 +1,12 @@
+wwwroot\css\Home\Index.css
+wwwroot\css\modal.css
+wwwroot\css\plugin\material-symbols\index.css
+wwwroot\css\plugin\material-symbols\material-symbols-outlined.woff2
+wwwroot\css\plugin\material-symbols\material-symbols-rounded.woff2
+wwwroot\css\plugin\material-symbols\material-symbols-sharp.woff2
+wwwroot\css\Pos\Index.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\image\pict1.png
+wwwroot\json\ApiKey.json
+wwwroot\json\DBConnect.json

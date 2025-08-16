@@ -1,6 +1,6 @@
 {
   "Server": "(local)",
-  "Database": "Implem.Pleasanter",
+  "Database": "offlineMeeting",
   "UserId": "sa",
   "Password": "alderaan",
   "SslMode": "none"

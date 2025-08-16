@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Home\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\Pos\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Pos\\Index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\modal.css",
+      "PackagePath": "staticwebassets\\css\\modal.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\index.css",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\index.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-outlined.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-rounded.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2",
+      "PackagePath": "staticwebassets\\css\\plugin\\material-symbols\\material-symbols-sharp.woff2"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\image\\pict1.png",
+      "PackagePath": "staticwebassets\\image\\pict1.png"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\ApiKey.json",
+      "PackagePath": "staticwebassets\\json\\ApiKey.json"
+    },
+    {
+      "Id": "C:\\web_private\\offlineMeeting\\offlineMeeting\\wwwroot\\json\\DBConnect.json",
+      "PackagePath": "staticwebassets\\json\\DBConnect.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.offlineMeeting.props",
+      "PackagePath": "build\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.offlineMeeting.props",
+      "PackagePath": "buildMultiTargeting\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.offlineMeeting.props",
+      "PackagePath": "buildTransitive\\offlineMeeting.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.offlineMeeting.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.offlineMeeting.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
