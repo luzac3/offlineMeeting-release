@@ -1,4 +1,4 @@
-/* _content/offlineMeeting/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* /Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
@@ -47,7 +47,7 @@ button.accept-policy[b-60qk3seclf] {
   white-space: nowrap;
   line-height: 60px;
 }
-/* _content/offlineMeeting/Views/Shared/_LayoutElectron.cshtml.rz.scp.css */
+/* /Views/Shared/_LayoutElectron.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
@@ -96,7 +96,7 @@ button.accept-policy[b-fstvcin7m0] {
   white-space: nowrap;
   line-height: 60px;
 }
-/* _content/offlineMeeting/Views/Shared/_LayoutLogin.cshtml.rz.scp.css */
+/* /Views/Shared/_LayoutLogin.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
@@ -145,7 +145,7 @@ button.accept-policy[b-bzt4p3j3z4] {
   white-space: nowrap;
   line-height: 60px;
 }
-/* _content/offlineMeeting/Views/Shared/_LayoutPrint.cshtml.rz.scp.css */
+/* /Views/Shared/_LayoutPrint.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
